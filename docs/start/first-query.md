@@ -28,7 +28,7 @@ The query editor is in the center of the screen, and you can use handy Ctrl-Spac
 combination to see all possible options that you can enter at the edit point. On the empty
 editor, it will show the drop-down list:
 
-![IDE context menu](/img/ide/context_menu.png)
+![IDE context menu](https://github.com/mayowaolatunji/streaming-data-platform-docs/blob/3f6bd0288913b4ee69ab3b63d1ba9de07876d0b0/static/img/ide/context_menu.png)
 
 So you can type the query using hints from IDE. For example, you can
 query the latest 10 blocks on the ETH network:
@@ -49,7 +49,7 @@ query the latest 10 blocks on the ETH network:
 After you create a query, the run triangle button will appear to be green,
 and you can press it now to see the results:
 
-![IDE query execution](/img/ide/query_execution.png)
+![IDE query execution](https://github.com/mayowaolatunji/streaming-data-platform-docs/blob/bfff9241116a8f173b867b141211f49617a1a461/static/img/ide/query_execution.png)
 
 ## Selecting the Dataset
 
